@@ -2,7 +2,7 @@
 
 ## Hastalık, Maruziyet, Karantina ve Enfekte Davranışı
 
-Bu dosya `enfeksiyon-lore.md` adıyla tutulur, ancak kanon başlığı **Veba Ekolojisi**dir. Çünkü içerik yalnızca "enfeksiyon" anlatmaz; hastalık profillerini, maruziyet kaynaklarını, tedavi ekonomisini, karantina siyasetini, bölge baskısını ve zombi davranış ekosistemini birlikte tanımlar.
+Bu dosya `veba-ekolojisi.md` adıyla tutulur ve kanon başlığı **Veba Ekolojisi**dir. Çünkü içerik yalnızca "enfeksiyon" anlatmaz; hastalık profillerini, maruziyet kaynaklarını, tedavi ekonomisini, karantina siyasetini, bölge baskısını ve zombi davranış ekosistemini birlikte tanımlar.
 
 Bu başlık altında Veba, tek bir virüs veya tek bir zombi dönüşümü olarak değil, LPZ dünyasının beden, toplum, bölge ve otorite üzerindeki toplam çürüme düzeni olarak ele alınır.
 

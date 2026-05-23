@@ -1,4 +1,4 @@
-# LAST PROJECT ZOMBIE: KÜL MECLİSİ 2044
+# LAST PROJECT ZOMBIE: VEBA MECLİSİ 2044
 
 ## open.mp için siyasi hayatta kalma simülasyonu evren ve sistem tasarımı
 
