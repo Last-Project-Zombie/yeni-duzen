@@ -76,7 +76,7 @@ Bir taşıyıcı çocuk, sahte enfeksiyon suçlaması veya gizlenen salgın; kar
 
 Oyuncu grupları küçük başlar ve zamanla siyasi ağırlık kazanır.
 
-1. **Ocak:** Küçük hayatta kalma çekirdeği
+1. **Nüve:** Birlikte hareket etmeye başlayan küçük hayatta kalma grubu
 2. **Kamp:** Haritada bilinen yerel sığınak
 3. **Yerel Topluluk:** Ortak kaynak, görev paylaşımı ve aidiyet kuran grup
 4. **Yerleşke:** İç kurallar, üretim ve savunma düzeni olan kalıcı yaşam alanı

@@ -577,7 +577,7 @@ LPZ'nin en önemli sistemi budur.
 
 Oyuncu grupları hazır fraksiyonlara mahkum değildir. Küçük bir ekip zamanla kendi kültürünü, hukukunu ve ekonomisini kurarak yeni bir koloniye dönüşebilir.
 
-## 7.1. Aşama 1: Ocak
+## 7.1. Aşama 1: Nüve
 
 3-5 kişilik küçük hayatta kalma ekibi.
 
