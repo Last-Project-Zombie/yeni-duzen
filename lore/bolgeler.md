@@ -6,6 +6,7 @@ Bu belge, LPZ dünyasının haritasını yalnızca mekan listesi olarak değil, 
 
 LPZ haritasında hiçbir yer yalnızca "gidilip loot alınan alan" değildir. Bir bölgeye girmek, bir düzene yaklaşmak demektir.
 
+## Haritanın Ana Mantığı
 
 Yeni Düzen dünyasında coğrafya siyasettir.
 
