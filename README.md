@@ -1,4 +1,4 @@
-# Last Project Zombie: Yeni Düzen Merhaba cengiz
+# Last Project Zombie: Yeni Düzen
 
 ## Veba Meclisi 2044
 
