@@ -22,7 +22,7 @@ Bu dünyada zombi tehdidi ölümün kendisidir.
 
 Ama insanları gerçekten parçalayan şey açlık, susuzluk, korku, söylenti ve güvensizliktir.
 
-**Last Project Zombie: Kül Meclisi 2044**, klasik zombi kıyameti rolplayinin merkezindeki loot, çatışma ve base kurma döngüsünü daha büyük bir sorunun içine yerleştirir:
+**Last Project Zombie: Veba Meclisi 2044**, klasik zombi kıyameti rolplayinin merkezindeki loot, çatışma ve base kurma döngüsünü daha büyük bir sorunun içine yerleştirir:
 
 **Kıyametten sonra düzeni kim kuracak?**
 
@@ -147,9 +147,9 @@ Bu, oyuncuların kendi yerel düzenlerini kurduğu ve o düzenleri siyasetle aya
 
 ---
 
-# 4. Kül Takvimi 2044
+# 4. Veba Takvimi 2044
 
-1994 yılında Kül Gribi başladı.
+1994 yılında Veba başladı.
 
 İlk iki yıl içinde büyük şehirler sustu.
 İlk on yıl içinde devletler harita üzerinde kaldı ama sahada parçalandı.
@@ -168,7 +168,7 @@ Herkes yeni dünyanın kimin elinde şekilleneceğini merak ediyor.
 
 # 5. Harita Kurgusu
 
-## 5.1. Külkent
+## 5.1. Veba Kenti
 
 Eski metropolün çökmüş merkezi.
 
@@ -185,7 +185,7 @@ Oyun rolü:
 
 Siyasi değeri:
 
-Külkent'i kimse tamamen yönetemez.
+Veba Kenti'ni kimse tamamen yönetemez.
 Ama buradan çıkan ilaç, veri, silah parçası ve eski kimlik kayıtları tüm kolonilerin kaderini değiştirebilir.
 
 ## 5.2. Hasat Hattı
@@ -511,7 +511,7 @@ Enfekte olup tamamen dönüşmemiş taşıyıcıların ve onları saklayanların
 
 Kültür:
 
-Koro'ya göre Kül Gribi yalnızca ölüm değil, insanlığın zorla girdiği yeni bir eşiktir. Dış dünya onları hastalık olarak görür. Onlar ise dış dünyayı eski kalmış sayar.
+Koro'ya göre Veba yalnızca ölüm değil, insanlığın zorla girdiği yeni bir eşiktir. Dış dünya onları hastalık olarak görür. Onlar ise dış dünyayı eski kalmış sayar.
 
 Yönetim:
 
@@ -988,7 +988,7 @@ Sürgün Çukuru:
 
 İlaç ve kaçak ürün bulunur, güven pahalıdır.
 
-Külkent:
+Veba Kenti:
 
 Ganimet değerlidir, çıkış riski bedeldir.
 
@@ -1173,7 +1173,7 @@ Bir hayat borcu, bir ilaç borcu, bir saklama borcu veya bir susma borcu oyuncun
 
 # 13. Enfeksiyon ve Toplum
 
-Kül Gribi sadece biyolojik tehdit değil, siyasi kriz motorudur.
+Veba sadece biyolojik tehdit değil, siyasi kriz motorudur.
 
 ## 13.1. Enfeksiyon evreleri
 
@@ -1349,9 +1349,9 @@ Yönetim biçiminin bedeli ve avantajı olmalıdır.
 
 # 16. Yaşayan Dünya Eventleri
 
-## 16.1. Kül Haftası
+## 16.1. Veba Haftası
 
-Belirli aralıklarla kül fırtınası gelir.
+Belirli aralıklarla veba sisi çöker.
 
 Etkileri:
 
@@ -1680,7 +1680,7 @@ Bu sunucuda amaç herkesi öldürmek değil, herkesin yaşamak için birilerine 
 ## Aşama 3: Kriz motoru
 
 * Hasat haftası
-* Kül fırtınası
+* Veba sisi
 * Su krizi
 * Salgın vakası
 * Kayıp kervan
@@ -2344,9 +2344,9 @@ Hızlı ve sese duyarlı enfekteler. Kervan pusularında doğal felaket gibi kul
 
 Sessizler:
 
-Kapalı alanlarda bekleyen, ani tepki veren enfekteler. Külkent ve hastane görevleri için uygundur.
+Kapalı alanlarda bekleyen, ani tepki veren enfekteler. Veba Kenti ve hastane görevleri için uygundur.
 
-Kül Taşıyıcılar:
+Veba Taşıyıcıları:
 
 İnsan davranışlarını kısmen taklit edebilen, belirsiz ve korkutucu tür. RP korkusu için az kullanılmalıdır.
 

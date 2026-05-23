@@ -1,6 +1,6 @@
 # Last Project Zombie: Yeni Düzen
 
-## Kül Meclisi 2044
+## Veba Meclisi 2044
 
 > Bu dünyada en güçlü silah mermi değildir.  
 > En güçlü silah; aç insanları aynı sofrada tutabilmek, korkan insanlara yön verebilmek ve düşmanın bile sana ihtiyaç duymasını sağlamaktır.
@@ -21,7 +21,7 @@ Hayatta kalmak; kimin su içeceğini, kimin kapının dışında kalacağını, 
 
 Lore belgeleri:
 
-- [Kül Takvimi 2044](./lore/kul-takvimi-2044.md)
+- [Veba Takvimi 2044](./lore/veba-takvimi-2044.md)
 - [Bölgeler](./lore/bolgeler.md)
 - [Factionlar ve Güç Odakları](./lore/factionlar.md)
 - [Enfeksiyon Lore](./lore/enfeksiyon-lore.md)
@@ -144,7 +144,7 @@ Eski para anlamını yitirmiştir. Asıl değer kaynaklardır:
 
 Dünya durağan değildir:
 
-- Kül fırtınaları
+- Veba sisleri
 - Hasat haftaları
 - Kayıp kervanlar
 - Su krizleri
@@ -157,7 +157,7 @@ Dünya durağan değildir:
 
 ## Bölge Kurgusu
 
-### Külkent
+### Veba Kenti
 
 Eski metropolün çökmüş kalbi. Yüksek ganimet, yoğun enfekte baskısı, hastane kalıntıları, veri arşivleri ve kayıp dosyalar.
 
@@ -288,7 +288,7 @@ Her rol dünyada gerçek ağırlık taşır. Bir doktor iyi bir nişancı kadar 
 
 - Su krizi
 - Hasat haftası
-- Kül fırtınası
+- Veba sisi
 - Salgın vakaları
 - Kayıp kervan
 - Mülteci dalgası
@@ -310,7 +310,7 @@ Bu repository şu anda **evren ve sistem tasarımı** odağındadır.
 Mevcut ana belgeler:
 
 - [lpz_siyasi_hayatta_kalma.md](./lpz_siyasi_hayatta_kalma.md)
-- [lore/kul-takvimi-2044.md](./lore/kul-takvimi-2044.md)
+- [lore/veba-takvimi-2044.md](./lore/veba-takvimi-2044.md)
 - [lore/bolgeler.md](./lore/bolgeler.md)
 - [lore/factionlar.md](./lore/factionlar.md)
 - [lore/enfeksiyon-lore.md](./lore/enfeksiyon-lore.md)

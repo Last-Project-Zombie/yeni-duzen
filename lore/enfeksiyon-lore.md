@@ -2,17 +2,17 @@
 
 ## Lore Amacı
 
-Bu belge, Kül Gribi'nin dünyadaki anlamını tanımlar. Enfeksiyon LPZ'de yalnızca PvE tehdidi değildir. Salgın; hukuk, din, tıp, propaganda, sürgün, savaş ve merhamet üreten ana kriz motorudur.
+Bu belge, Veba'nın dünyadaki anlamını tanımlar. Enfeksiyon LPZ'de yalnızca PvE tehdidi değildir. Salgın; hukuk, din, tıp, propaganda, sürgün, savaş ve merhamet üreten ana kriz motorudur.
 
 Enfeksiyonun korkutucu olması için her cevabın açık olmaması gerekir. Dünya, hastalığı tamamen anladığı anda sıradanlaşır.
 
-## Kül Gribi Nedir?
+## Veba Nedir?
 
-Kül Gribi, 1994 yılında kayda geçen ve eski dünyanın çöküşünü hızlandıran salgındır.
+Veba, 1994 yılında kayda geçen ve eski dünyanın çöküşünü hızlandıran salgındır.
 
 Halkın bildiği haliyle hastalık ateş, susuzluk, ışık hassasiyeti, davranış bozukluğu ve sonunda enfekte dönüşümüyle ilerler. Ama elli yıl sonra bile kimse hastalığın yalnızca biyolojik mi, çevresel mi, deneysel mi yoksa bunların karışımı mı olduğunu kesin olarak bilmez.
 
-Kül Gribi'nin asıl dehşeti yalnızca öldürmesi değildir.
+Veba'nın asıl dehşeti yalnızca öldürmesi değildir.
 
 Asıl dehşet, insan ile enfekte arasındaki sınırı bazen belirsizleştirmesidir.
 
@@ -20,7 +20,7 @@ Asıl dehşet, insan ile enfekte arasındaki sınırı bazen belirsizleştirmesi
 
 Farklı bölgeler hastalığı farklı adlarla anar:
 
-- **Kül Gribi:** En yaygın ve tarafsız ad
+- **Veba:** En yaygın ve tarafsız ad
 - **Solgunluk:** Hasat Hattı çevresinde kullanılan halk adı
 - **Karantina Laneti:** Karakol-12 karşıtlarının kullandığı ad
 - **Eşik:** Koro Mahzenleri'nin tercih ettiği ad
@@ -117,13 +117,13 @@ Yol güvenliğini kırar, Son Geçit'i siyasi krize sokar.
 
 ### Sessizler
 
-Kapalı alanlarda bekleyen, ani tepki veren enfektelerdir. Külkent, hastane ve arşiv görevleri için uygundur.
+Kapalı alanlarda bekleyen, ani tepki veren enfektelerdir. Veba Kenti, hastane ve arşiv görevleri için uygundur.
 
 Lore işlevi:
 
 Eski dünyanın kapalı kalmış suçlarını korur.
 
-### Kül Taşıyıcılar
+### Veba Taşıyıcıları
 
 İnsan davranışlarını kısmen taklit edebilen, belirsiz ve korkutucu vakalardır. Çok sık kullanılmamalıdır.
 
@@ -235,6 +235,6 @@ Enfeksiyon lore'u kullanılırken şu ilkeler korunmalıdır:
 - Enfekte türleri sıklaştıkça gizem azalacağı için özel türler az kullanılmalı.
 - Sıfır Noktası cevaptan çok sezon motoru olarak kalmalı.
 
-Kül Gribi'nin en güçlü yanı bilinmezliğidir.
+Veba'nın en güçlü yanı bilinmezliğidir.
 
 İnsanlar anlamadıkları şeyden korkar. Anlamaya yaklaştıklarında ise birbirlerinden korkmaya başlar.

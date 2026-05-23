@@ -19,15 +19,15 @@ Yeni Düzen dünyasında coğrafya siyasettir.
 
 Bu yüzden bölgeler yalnızca fiziksel alanlar değil, oyuncuların hikaye üretmesini sağlayan gerilim odaklarıdır.
 
-## Külkent
+## Veba Kenti
 
 Eski metropolün çökmüş kalbi.
 
-Külkent, eski dünyanın en büyük yalanının mezarıdır: her şeyin kontrol altında olduğu yalanı. Burası yüksek binaların, kapanmış hastanelerin, yarım kalmış tahliyelerin, apartman çatılarında hâlâ yaşayan izole ailelerin ve yeraltı arşivlerinin bölgesidir.
+Veba Kenti, eski dünyanın en büyük yalanının mezarıdır: her şeyin kontrol altında olduğu yalanı. Burası yüksek binaların, kapanmış hastanelerin, yarım kalmış tahliyelerin, apartman çatılarında hâlâ yaşayan izole ailelerin ve yeraltı arşivlerinin bölgesidir.
 
-Külkent'e giren herkes bir şey arar. İlaç, dosya, silah parçası, eski kimlik, kayıp akraba, susturulmuş kayıt veya yalnızca kendine anlatacak bir zafer.
+Veba Kenti'ne giren herkes bir şey arar. İlaç, dosya, silah parçası, eski kimlik, kayıp akraba, susturulmuş kayıt veya yalnızca kendine anlatacak bir zafer.
 
-Ama Külkent kimseye bedelsiz cevap vermez.
+Ama Veba Kenti kimseye bedelsiz cevap vermez.
 
 ### Bölge Hissi
 
@@ -44,11 +44,11 @@ Dar sokaklar, kırık camlar, asansör boşlukları, karanlık hastane koridorla
 
 ### Siyasi Gerilim
 
-Külkent'i kimse tamamen yönetemez ama herkes ondan çıkan şeyi ister. Bir dosya savaş başlatabilir. Bir ilaç sevkiyatı ambargoyu kırabilir. Bir eski kimlik, bir liderin yalanını ortaya çıkarabilir.
+Veba Kenti'ni kimse tamamen yönetemez ama herkes ondan çıkan şeyi ister. Bir dosya savaş başlatabilir. Bir ilaç sevkiyatı ambargoyu kırabilir. Bir eski kimlik, bir liderin yalanını ortaya çıkarabilir.
 
 ### Söylenti
 
-Külkent'in altında hâlâ çalışan bir arşiv sunucusu olduğu söylenir. Bazıları bu sunucunun ölüleri değil, yaşayanları listelediğini iddia eder.
+Veba Kenti'nin altında hâlâ çalışan bir arşiv sunucusu olduğu söylenir. Bazıları bu sunucunun ölüleri değil, yaşayanları listelediğini iddia eder.
 
 ## Hasat Hattı
 

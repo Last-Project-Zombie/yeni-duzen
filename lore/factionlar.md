@@ -176,7 +176,7 @@ Bir haberci, doğru haberi taşımanın savaş çıkaracağını bilirse yine de
 
 Enfekte olup tamamen dönüşmemiş taşıyıcıların ve onları saklayanların gizli ağı.
 
-Koro'ya göre Kül Gribi yalnızca ölüm değildir. İnsanlığın zorla girdiği yeni bir eşiğin sesidir. Dış dünya onları hastalık olarak görür; onlar dış dünyayı eski kalmış sayar.
+Koro'ya göre Veba yalnızca ölüm değildir. İnsanlığın zorla girdiği yeni bir eşiğin sesidir. Dış dünya onları hastalık olarak görür; onlar dış dünyayı eski kalmış sayar.
 
 ### Verdikleri Cevap
 
@@ -218,7 +218,7 @@ Kızıl Eşik düzeni yok etmek ister ama yokluğun yerine ne koyacağını bilm
 
 ### Sembol Dili
 
-Kırmızı eşik çizgisi, yanık mühür, kesik radyo yayını, kapıya sürülen kül ve kan karışımı.
+Kırmızı eşik çizgisi, yanık mühür, kesik radyo yayını, kapıya çizilen veba işareti ve kan izi.
 
 ### Hikaye Çekirdeği
 
