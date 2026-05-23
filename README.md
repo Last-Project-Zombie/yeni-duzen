@@ -24,7 +24,7 @@ Lore belgeleri:
 - [Veba Takvimi 2044](./lore/veba-takvimi-2044.md)
 - [Bölgeler](./lore/bolgeler.md)
 - [Factionlar ve Güç Odakları](./lore/factionlar.md)
-- [Enfeksiyon Lore](./lore/enfeksiyon-lore.md)
+- [Veba Ekolojisi](./lore/enfeksiyon-lore.md)
 
 ---
 
@@ -313,7 +313,7 @@ Mevcut ana belgeler:
 - [lore/veba-takvimi-2044.md](./lore/veba-takvimi-2044.md)
 - [lore/bolgeler.md](./lore/bolgeler.md)
 - [lore/factionlar.md](./lore/factionlar.md)
-- [lore/enfeksiyon-lore.md](./lore/enfeksiyon-lore.md)
+- [lore/enfeksiyon-lore.md - Veba Ekolojisi](./lore/enfeksiyon-lore.md)
 
 İlerleyen aşamalarda burada şu içeriklerin tutulması hedeflenir:
 

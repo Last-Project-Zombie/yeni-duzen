@@ -1,4 +1,19 @@
-# Enfeksiyon Lore
+# Veba Ekolojisi
+
+## Hastalık, Maruziyet, Karantina ve Enfekte Davranışı
+
+Bu dosya `enfeksiyon-lore.md` adıyla tutulur, ancak kanon başlığı **Veba Ekolojisi**dir. Çünkü içerik yalnızca "enfeksiyon" anlatmaz; hastalık profillerini, maruziyet kaynaklarını, tedavi ekonomisini, karantina siyasetini, bölge baskısını ve zombi davranış ekosistemini birlikte tanımlar.
+
+Bu başlık altında Veba, tek bir virüs veya tek bir zombi dönüşümü olarak değil, LPZ dünyasının beden, toplum, bölge ve otorite üzerindeki toplam çürüme düzeni olarak ele alınır.
+
+## Belge Kapsamı
+
+Bu belge dört ana omurgayı birleştirir:
+
+- **Hastalık omurgası:** Grip, kan enfeksiyonu, mantar enfeksiyonu, çürüme hastalığı ve su kaynaklı hastalık.
+- **Maruziyet omurgası:** Bölge, iklim, kirli su, kirli bandaj, yara, toksisite, ıslaklık, açlık ve susuzluk.
+- **Karantina omurgası:** Doktor, asker, koloni, pazar, sürgün, kayıt, ihbar ve tedavi hakkı.
+- **Enfekte ekolojisi:** Zombi tipleri, ses, koku, kan, yara, bölge ekolojisi ve karantina baskısı.
 
 ## Kaynak ve Kanon
 
