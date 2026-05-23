@@ -295,9 +295,9 @@ Ama kıyıyı kontrol eden, ticaretin nefesini kontrol eder.
 
 ---
 
-# 6. Ana Koloniler ve Kültürler
+# 6. Güç Odakları ve Kültürler
 
-Sunucunun başlangıcında birkaç tanınmış koloni vardır.
+Sunucunun başlangıcında birkaç tanınmış güç odağı vardır.
 
 Bunlar oyunculara hazır siyasi kutuplar verir ama dünyanın tamamını kilitlemez. Yeni oyuncu grupları zamanla bu düzenlerin yanında, içinde veya karşısında kendi topluluklarını büyütebilir.
 

@@ -19,6 +19,13 @@ Hayatta kalmak; kimin su içeceğini, kimin kapının dışında kalacağını, 
 
 [Ana evren ve sistem tasarım belgesini oku](./lpz_siyasi_hayatta_kalma.md)
 
+Lore belgeleri:
+
+- [Kül Takvimi 2044](./lore/kul-takvimi-2044.md)
+- [Bölgeler](./lore/bolgeler.md)
+- [Factionlar ve Güç Odakları](./lore/factionlar.md)
+- [Enfeksiyon Lore](./lore/enfeksiyon-lore.md)
+
 ---
 
 ## Proje Kimliği
@@ -300,9 +307,13 @@ Her rol dünyada gerçek ağırlık taşır. Bir doktor iyi bir nişancı kadar 
 
 Bu repository şu anda **evren ve sistem tasarımı** odağındadır.
 
-Mevcut ana belge:
+Mevcut ana belgeler:
 
 - [lpz_siyasi_hayatta_kalma.md](./lpz_siyasi_hayatta_kalma.md)
+- [lore/kul-takvimi-2044.md](./lore/kul-takvimi-2044.md)
+- [lore/bolgeler.md](./lore/bolgeler.md)
+- [lore/factionlar.md](./lore/factionlar.md)
+- [lore/enfeksiyon-lore.md](./lore/enfeksiyon-lore.md)
 
 İlerleyen aşamalarda burada şu içeriklerin tutulması hedeflenir:
 
