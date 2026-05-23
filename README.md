@@ -176,6 +176,84 @@ Eski askeri karantina bölgesi. Endgame lore, kapalı tesisler, eski emirler ve 
 
 ---
 
+## Ana Koloniler ve Kültürler
+
+Sunucu başlangıcında tanınmış birkaç siyasi yapı vardır. Bunlar oyunculara hazır güç merkezleri, çatışma hatları ve diplomasi zemini verir; dünyanın tamamını kilitlemez. Yeni oyuncu grupları bu yapıların yanında, içinde veya karşısında kendi topluluklarını büyütebilir.
+
+### Başak Surları
+
+Hasat Hattı'nın en büyük tarım kolonisi. İnsan değeri üretimle ölçülür; aile, toprak, su ve hasat aynı siyasi düzenin parçalarıdır.
+
+- **Kültür:** Tarımcı, yerel meclisçi, emek odaklı
+- **Güç:** Gıda, su, halk desteği, uzun vadeli istikrar
+- **Risk:** Kuraklık, mülteci baskısı, sınıf gerilimi, askeri teknoloji eksikliği
+- **RP odağı:** Hasat pazarlıkları, gıda diplomasisi, mülteci kararları, köy siyaseti
+
+### Karakol-12
+
+Eski karantina düzeninden kalan militarize koloni. Onlara göre özgürlük, salgının geri dönmesine izin veren eski dünyanın hatasıdır.
+
+- **Kültür:** Askeri, disiplinci, karantina merkezli
+- **Güç:** Silah, eğitim, güvenli yollar, kriz yönetimi
+- **Risk:** Halk nefreti, sert bürokrasi, firar, vicdani çatışma
+- **RP odağı:** Kontrol noktaları, sorgular, karantina kararları, otoriteye başkaldırı
+
+### Pas Hanesi
+
+Sanayi ustaları, hurdacılar ve mühendis loncalarının üretim merkezi. Burada soyadından çok ustanın damgası önemlidir.
+
+- **Kültür:** Sanayi, lonca, teknik sır
+- **Güç:** Araç parçası, jeneratör, zırh, silah parçası, base geliştirme
+- **Risk:** Gıda bağımlılığı, hammadde krizi, işçi grevleri, siyasi dağınıklık
+- **RP odağı:** Üretim anlaşmaları, sabotaj, işçi hakları, teknik sır kaçakçılığı
+
+### Tuz Pazarı
+
+Kaçakçıların, sürgünlerin, sahte doktorların ve pazarlıkçıların kurduğu gevşek şehir. Burada geçmiş sorulmaz, bedel sorulur.
+
+- **Kültür:** Ticari, karaborsa, borç düzeni
+- **Güç:** Bilgi, kaçak ürün, ilaç, gizli geçiş, muhbir ağı
+- **Risk:** Güvensizlik, iç ihanet, dış baskı, hastalık riski
+- **RP odağı:** Borç defteri, rehine pazarlığı, sahte kimlik, gizli anlaşmalar
+
+### Beyaz Vadi
+
+Doktorların, araştırmacıların ve eski laboratuvar teknisyenlerinin korunaklı sağlık yerleşimi. Merhamet ile deney arasındaki çizgi burada hiçbir zaman net değildir.
+
+- **Kültür:** Tıbbi, bilimsel, etik gerilimli
+- **Güç:** Tedavi, ilaç, salgın bilgisi, bilimsel otorite
+- **Risk:** Deney söylentileri, halk güvensizliği, hasta kaçırma iddiaları
+- **RP odağı:** Salgın takibi, hasta saklama, tedavi karşılığı siyasi bedel, numune krizleri
+
+### Yol Meclisi
+
+Kuryeler, haritacılar, kervan rehberleri ve tarafsız haberciler ağı. Onlar için ev, duvarla çevrili yer değil; tekrar dönebildiğin rotadır.
+
+- **Kültür:** Yolcu, tarafsız, haber ve rota odaklı
+- **Güç:** Hareketlilik, harita, diplomatik bağlantı, güvenli geçiş
+- **Risk:** Sabit savunma yokluğu, pusu riski, tarafsızlık baskısı
+- **RP odağı:** Kurye işleri, arabuluculuk, kayıp kişi arama, kervan sözleşmeleri
+
+### Koro Mahzenleri
+
+Enfekte olup tamamen dönüşmemiş taşıyıcıların ve onları saklayanların gizli ağı. Dış dünya onları hastalık olarak görür; onlar ise kendilerini yeni eşiğin tanıkları sayar.
+
+- **Kültür:** Gizli inanç, taşıyıcı koruma, dışlanmış topluluk
+- **Güç:** Enfekte davranış bilgisi, gizli sığınaklar, yasak bölgelerde hareket
+- **Risk:** Toplumsal dışlanma, dönüşüm riski, fanatizm, avlanma korkusu
+- **RP odağı:** Kimlik saklama, taşıyıcı çocuk krizleri, korku ve merhamet çatışması
+
+### Kızıl Eşik
+
+Çoğunlukla event ve antagonist yapı olarak kullanılan fanatik hareket. Onlara göre kıyamet yarım kalmıştır ve koloniler çürümenin üstünü örtmektedir.
+
+- **Kültür:** Fanatik, hücre tipi, yıkım odaklı
+- **Güç:** Sabotaj, korku, sürü yönlendirme, gizli hücreler
+- **Risk:** Sürdürülebilir ekonomi yokluğu, herkesin düşmanı olma, iç fanatizm
+- **RP odağı:** Sezon antagonisti, sabotaj eventleri, radyo bildirileri, gizli hücre soruşturmaları
+
+---
+
 ## Koloni Kültürleri
 
 Koloniler kararlarına göre kültür kazanır.
