@@ -168,11 +168,11 @@ Herkes yeni dünyanın kimin elinde şekilleneceğini merak ediyor.
 
 # 5. Harita Kurgusu
 
-## 5.1. Kül Şehri
+## 5.1. Külkent
 
-Eski metropol alanı.
+Eski metropolün çökmüş merkezi.
 
-Yüksek loot, yüksek enfekte yoğunluğu, eski hastaneler, apartman çatılarında yaşayan izole aileler, terk edilmiş polis merkezleri, yeraltı geçitleri ve veri arşivleri bulunur.
+Yüksek ganimet, yoğun enfekte baskısı, eski hastaneler, apartman çatılarında yaşayan izole aileler, terk edilmiş polis merkezleri, yeraltı geçitleri ve veri arşivleri bulunur.
 
 Oyun rolü:
 
@@ -185,10 +185,10 @@ Oyun rolü:
 
 Siyasi değeri:
 
-Kül Şehri'ni kimse tamamen yönetemez.
-Ama şehirden çıkan ilaç, veri, silah parçası ve eski kimlik kayıtları tüm kolonilerin kaderini değiştirebilir.
+Külkent'i kimse tamamen yönetemez.
+Ama buradan çıkan ilaç, veri, silah parçası ve eski kimlik kayıtları tüm kolonilerin kaderini değiştirebilir.
 
-## 5.2. Yeşil Hat
+## 5.2. Hasat Hattı
 
 Tarım kasabaları, sulama kanalları, eski çiftlikler ve küçük köyler.
 
@@ -204,11 +204,11 @@ Siyasi değeri:
 
 Açlığı yöneten insanları yönetir.
 
-Yeşil Hat hiçbir zaman sadece tarım alanı değildir. Burası her savaşta en çok pazarlık edilen yerdir.
+Hasat Hattı hiçbir zaman sadece tarım alanı değildir. Burası her savaşta en çok pazarlık edilen yerdir.
 
-## 5.3. Pas Kuşağı
+## 5.3. Hurda Harabesi
 
-Sanayi bölgeleri, depolar, rafineriler, atölyeler, tren hatları ve metal yığınları.
+Çökmüş sanayi bölgeleri, depolar, rafineri kalıntıları, atölyeler, tren hatları ve metal yığınları.
 
 Oyun rolü:
 
@@ -224,9 +224,9 @@ Demiri olmayan koloni duvarını büyütemez.
 Parçası olmayan kervan yürüyemez.
 Jeneratörü olmayan yerleşim geceleri karanlıkta kalır.
 
-## 5.4. Kervan Otoyolu
+## 5.4. Son Geçit
 
-Bölgeleri bağlayan ticaret damarları.
+Bölgeleri birbirine bağlayan son işlek ticaret geçidi.
 
 Oyun rolü:
 
@@ -239,10 +239,10 @@ Oyun rolü:
 
 Siyasi değeri:
 
-Bir yolun güvenli olması, bir koloninin zenginleşmesi demektir.
-Bir yolun kapanması, açlık ve savaş demektir.
+Son Geçit'in güvenli olması, bir koloninin zenginleşmesi demektir.
+Son Geçit'in kapanması, açlık ve savaş demektir.
 
-## 5.5. Tuz Çukuru
+## 5.5. Sürgün Çukuru
 
 Çöl, kurumuş göl yatakları, kaçak pazarlar, bataklık benzeri kimyasal alanlar ve sürgün kampları.
 
@@ -256,12 +256,12 @@ Oyun rolü:
 
 Siyasi değeri:
 
-Tuz Çukuru'nda kanun yoktur.
+Sürgün Çukuru'nda kanun yoktur.
 Ama herkesin ihtiyacı olan bir şey mutlaka vardır.
 
-## 5.6. Sessiz Hat
+## 5.6. Sıfır Bölgesi
 
-Eski askeri karantina hattı.
+Eski askeri karantina bölgesi.
 
 Oyun rolü:
 
@@ -303,7 +303,7 @@ Bunlar oyunculara hazır siyasi kutuplar verir ama dünyanın tamamını kilitle
 
 ## 6.1. Başak Surları
 
-Yeşil Hat'ın en büyük tarım kolonisi.
+Hasat Hattı'nın en büyük tarım kolonisi.
 
 Kültür:
 
@@ -976,23 +976,23 @@ Savaş çıkarmadan savaş kazandırır.
 
 ## 10.2. Bölgesel fiyat mantığı
 
-Yeşil Hat:
+Hasat Hattı:
 
 Gıda ucuz, silah ve metal pahalı.
 
-Pas Kuşağı:
+Hurda Harabesi:
 
 Hurda bol, temiz su ve gıda pahalı.
 
-Tuz Çukuru:
+Sürgün Çukuru:
 
 İlaç ve kaçak ürün bulunur, güven pahalıdır.
 
-Kül Şehri:
+Külkent:
 
-Loot değerlidir, çıkış riski bedeldir.
+Ganimet değerlidir, çıkış riski bedeldir.
 
-Kervan Otoyolu:
+Son Geçit:
 
 Her şey bulunur, ama güvenlik maliyetlidir.
 
@@ -1368,7 +1368,7 @@ Hazırlıksız koloniler yardım ister.
 
 ## 16.2. Hasat Mevsimi
 
-Yeşil Hat üretim yapar.
+Hasat Hattı üretim yapar.
 
 Etkileri:
 
@@ -1468,7 +1468,7 @@ Yolu kim kontrol ederse ticareti kontrol eder.
 
 Olaylar:
 
-* Kervan Otoyolu üzerinde pusular artar.
+* Son Geçit üzerinde pusular artar.
 * Yol Meclisi tarafsızlığını korumaya çalışır.
 * Yol vergisi savaşları çıkar.
 
@@ -1595,7 +1595,7 @@ Yeni oyuncu direkt büyük siyasetin ortasına atılmamalıdır.
 
 ## 20.1. Küçük Kampın Yükselişi
 
-Dört oyuncu Kervan Otoyolu kenarında bir tamir kampı kurar.
+Dört oyuncu Son Geçit kenarında bir tamir kampı kurar.
 
 İlk başta sadece lastik, yakıt ve basit onarım yaparlar.
 Sonra Yol Meclisi ile anlaşırlar.
@@ -2344,7 +2344,7 @@ Hızlı ve sese duyarlı enfekteler. Kervan pusularında doğal felaket gibi kul
 
 Sessizler:
 
-Kapalı alanlarda bekleyen, ani tepki veren enfekteler. Kül Şehri ve hastane görevleri için uygundur.
+Kapalı alanlarda bekleyen, ani tepki veren enfekteler. Külkent ve hastane görevleri için uygundur.
 
 Kül Taşıyıcılar:
 

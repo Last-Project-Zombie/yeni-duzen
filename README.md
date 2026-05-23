@@ -150,27 +150,27 @@ Dünya durağan değildir:
 
 ## Bölge Kurgusu
 
-### Kül Şehri
+### Külkent
 
-Eski metropol. Yüksek loot, yüksek enfekte riski, hastane kalıntıları, veri arşivleri ve kayıp dosyalar.
+Eski metropolün çökmüş kalbi. Yüksek ganimet, yoğun enfekte baskısı, hastane kalıntıları, veri arşivleri ve kayıp dosyalar.
 
-### Yeşil Hat
+### Hasat Hattı
 
 Tarım alanları, köyler, sulama kanalları ve hasat siyaseti. Açlığı kim yönetirse halkı da o yönetir.
 
-### Pas Kuşağı
+### Hurda Harabesi
 
-Sanayi, hurda, jeneratörler, araç parçaları ve atölyeler. Demir olmadan duvar büyümez.
+Çökmüş sanayi alanları, hurda yığınları, jeneratörler, araç parçaları ve atölyeler. Demir olmadan duvar büyümez.
 
-### Kervan Otoyolu
+### Son Geçit
 
-Ticaretin ana damarı. Kervan, pusu, yol vergisi, tarafsız mola noktası ve diplomatik geçiş alanı.
+Ticaretin son işlek damarı. Kervanlar, pusular, yol vergileri, tarafsız mola noktaları ve diplomatik geçişler burada kesişir.
 
-### Tuz Çukuru
+### Sürgün Çukuru
 
 Sürgünler, kaçak doktorlar, karaborsa ve kirli anlaşmalar. Burada geçmiş sorulmaz, bedel sorulur.
 
-### Sessiz Hat
+### Sıfır Bölgesi
 
 Eski askeri karantina bölgesi. Endgame lore, kapalı tesisler, eski emirler ve Sıfır Noktası sırrı.
 
