@@ -102,7 +102,7 @@ Meşruiyet seni yaşatır.
 Enfekteler sadece vurulacak yaratıklar değildir.
 
 Bir sürü göçü seçimleri değiştirebilir.
-Bir taşıyıcı çocuk koloniyi ikiye bölebilir.
+Kuluçka evresindeki bir çocuk koloniyi ikiye bölebilir.
 Bir enfekte salgını karantina bahanesiyle bir bölgenin işgal edilmesine yol açabilir.
 Bir laboratuvar sızıntısı, tıp fraksiyonunu vazgeçilmez yapabilir.
 
@@ -252,7 +252,7 @@ Oyun rolü:
 * Kaçak doktorlar
 * Sürgün karakterler
 * Yasak ticaret
-* Taşıyıcı saklama
+* Semptomlu veya haksız suçlanan hasta saklama
 
 Siyasi değeri:
 
@@ -507,7 +507,7 @@ Kurye işleri, arabuluculuk, kayıp kişi arama, ticaret sözleşmesi, yol güve
 
 ## 6.7. Koro Mahzenleri
 
-Enfekte olup tamamen dönüşmemiş taşıyıcıların ve onları saklayanların gizli ağı.
+Semptomlu, kuluçka evresindeki veya haksız yere Vebalı ilan edilmiş kişileri saklayan gizli ağ.
 
 Kültür:
 
@@ -517,14 +517,14 @@ Yönetim:
 
 * Ses Dinleyiciler
 * Mahzen Anneleri
-* Taşıyıcı Koruyucuları
+* Eşik Koruyucuları
 * Sessiz Ayinler
 
 Kanunları:
 
-* Taşıyıcı çocuk öldürülemez.
+* Semptomlu çocuk kurul kararı olmadan infaz edilemez.
 * Koro sığınağını satan kişi artık insan sayılmaz.
-* Dönüşüm belirtisi saklanmaz, paylaşılır.
+* Semptom ve risk belirtisi saklanmaz, paylaşılır.
 * Gereksiz kan dökmek sürüyü uyandırır.
 
 Gücü:
@@ -537,7 +537,7 @@ Toplumsal dışlanma, dönüşüm riski, fanatizm, avlanma korkusu.
 
 RP tarzı:
 
-Kimlik saklama, hastalık inancı, taşıyıcı koruma, köy mahkemeleri, korku ve merhamet çatışması.
+Kimlik saklama, hastalık inancı, hasta koruma, köy mahkemeleri, korku ve merhamet çatışması.
 
 ## 6.8. Kızıl Eşik
 

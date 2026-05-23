@@ -23,7 +23,7 @@ Lore belgeleri:
 
 - [Veba Takvimi 2044](./lore/veba-takvimi-2044.md)
 - [Bölgeler](./lore/bolgeler.md)
-- [Factionlar ve Güç Odakları](./lore/factionlar.md)
+- [Güç Odakları Atlası](./lore/factionlar.md)
 - [Veba Ekolojisi](./lore/veba-ekolojisi.md)
 
 ---
@@ -69,7 +69,7 @@ Su azalırsa pazarlık başlar. Gıda biterse iç siyaset sertleşir. Antibiyoti
 
 ### Enfeksiyon siyasi bir silahtır
 
-Bir taşıyıcı çocuk, sahte enfeksiyon suçlaması veya gizlenen salgın; karantina, isyan, ambargo veya savaş sebebi olabilir.
+Kuluçka evresindeki bir çocuk, sahte enfeksiyon suçlaması veya gizlenen salgın; karantina, isyan, ambargo veya savaş sebebi olabilir.
 
 ### Savaş ucuz olmamalıdır
 
@@ -213,7 +213,7 @@ Kuryeler, haritacılar, kervan rehberleri ve tarafsız haberciler ağı. Onlar i
 
 ### Koro Mahzenleri
 
-Enfekte olup tamamen dönüşmemiş taşıyıcıların ve onları saklayanların gizli ağı. Dış dünya onları hastalık olarak görür; onlar ise kendilerini yeni eşiğin tanıkları sayar.
+Semptomlu, kuluçka evresindeki veya haksız yere Vebalı ilan edilmiş kişileri saklayan gizli ağ. Dış dünya onları hastalık olarak görür; onlar ise kendilerini yeni eşiğin tanıkları sayar.
 
 ### Kızıl Eşik
 
@@ -312,7 +312,7 @@ Mevcut ana belgeler:
 - [lpz_siyasi_hayatta_kalma.md](./lpz_siyasi_hayatta_kalma.md)
 - [lore/veba-takvimi-2044.md](./lore/veba-takvimi-2044.md)
 - [lore/bolgeler.md](./lore/bolgeler.md)
-- [lore/factionlar.md](./lore/factionlar.md)
+- [lore/factionlar.md - Güç Odakları Atlası](./lore/factionlar.md)
 - [lore/veba-ekolojisi.md - Veba Ekolojisi](./lore/veba-ekolojisi.md)
 
 İlerleyen aşamalarda burada şu içeriklerin tutulması hedeflenir:
