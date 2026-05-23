@@ -616,53 +616,57 @@ Yeni imkanlar:
 * Yerel kurallar
 * Kervanlarla sınırlı ticaret
 
-## 7.3. Aşama 3: Mahalle
+## 7.3. Aşama 3: Yerel Topluluk
 
-Sadece hayatta kalan değil, yerel düzen oluşturan topluluk.
+Artık sadece birlikte gezen bir ekip değil, ortak aidiyet ve görev paylaşımı kuran topluluk.
 
 Gereksinimler:
 
 * Düzenli nüfus
 * Depo sorumlusu
-* İç hukuk
 * Temel meslek dağılımı
+* Ortak kaynak kullanımı
+* Basit temsil veya sözcülük
 * En az iki dış diplomatik temas
 * Bir krizden başarıyla çıkmış olmak
 
 Yeni imkanlar:
 
-* Yerel meclis
+* Topluluk adı
+* Sözcü veya temsilci seçimi
 * Vergi veya katkı sistemi
-* Ticari uzmanlık
-* Koloni kültürü seçimi
-* Diğer kolonilerden tanınma talebi
+* Basit iç kurallar
+* Ticari veya üretim uzmanlığı
+* Komşu kamplarla ilişki kurma
 
-## 7.4. Aşama 4: Koloni
+## 7.4. Aşama 4: Yerleşke
 
-Bölgesel aktör.
+Kalıcı yaşam alanı.
+
+Yerleşke, artık yalnızca insanların sığındığı yer değil; üretim, savunma ve iç düzen kuran yapıdır.
 
 Gereksinimler:
 
-* Tanınan liderlik
-* Kaynak dengesi
-* Diplomatik kayıt
-* Halk itibarı
-* Savunma planı
+* Sabit yerleşim alanı
+* İç hukuk
+* Tanınan liderlik veya meclis
+* Düzenli üretim
+* Savunma düzeni
 * Salgın protokolü
-* En az bir komşu yapı tarafından tanınma
+* En az bir dış ticaret veya yardım ilişkisi
 
 Yeni imkanlar:
 
-* Resmi mühür
-* Antlaşma imzalama
-* Yol vergisi veya pazar kurma
-* Koloni yasaları
-* Göçmen kabul sistemi
-* Krizlerde siyasi ağırlık
+* Yerleşke yasaları
+* Resmi depo yönetimi
+* Yerel meclis
+* Göçmen kabul veya ret kararı
+* Kültür eğilimi belirleme
+* Diğer yapılardan tanınma talebi
 
 ## 7.5. Aşama 5: Kasaba
 
-Kendi çevresinde ekonomi ve kültür üreten yerleşim.
+Kendi çevresinde ekonomi, pazar ve kültür üreten merkez.
 
 Gereksinimler:
 
@@ -671,6 +675,7 @@ Gereksinimler:
 * İç muhalefet veya temsil sistemi
 * Savunma gücü
 * Düzenli ticaret
+* Halk itibarı
 * En az bir sunucu çapı olayda rol almış olmak
 
 Yeni imkanlar:
@@ -681,27 +686,56 @@ Yeni imkanlar:
 * Kervan sözleşmeleri
 * Kültür festivali veya tören
 * Propaganda yayını
+* Koloni statüsü için siyasi başvuru
 
-## 7.6. Aşama 6: Bölgesel Güç
+## 7.6. Aşama 6: Koloni
 
-Artık sadece yerleşim değil, siyasi kutup.
+En üst toplumsal ve siyasi form.
+
+Koloni, yalnızca büyük bir yerleşim değildir. Kendi hukuku, ekonomisi, kültürü, dış politikası ve kriz yönetimi olan tanınmış toplumdur.
 
 Gereksinimler:
 
-* Birden fazla bağlı kamp veya mahalle
-* Güçlü ekonomi
+* Güçlü ve sürdürülebilir ekonomi
+* Tanınan yönetim biçimi
+* Resmi hukuk ve vatandaşlık sistemi
+* Diplomatik kayıt
+* En az bir başka koloni veya büyük yapı tarafından tanınma
 * Düşmanları ve müttefikleri olan açık dış politika
 * Kriz yönetim geçmişi
-* Halk desteği veya korku yoluyla düzen
+* Halk desteği, korku, inanç veya çıkar yoluyla sürdürülen düzen
+* Bağlı kamp, yerleşke veya kasabalar üzerinde etki
 
 Yeni imkanlar:
 
-* Federasyon kurma
-* Savaş ilanı
+* Resmi mühür
+* Antlaşma imzalama
+* Diplomasi yürütme
 * Ambargo uygulama
+* Himaye ilanı
+* Savaş kararı alma
+* Federasyon kurma
 * Büyük altyapı projeleri
 * Bölgesel karantina kararı
 * Sunucu sezon hikayesinde ana aktör olma
+
+## 7.7. Koloninin Bölgesel Etkisi
+
+“Bölgesel güç” ayrı bir aşama değildir.
+
+Bu ifade, olgun bir koloninin çevresindeki kamp, yerleşke, kasaba, pazar ve kervan yolları üzerinde kurduğu etkiyi anlatır.
+
+Bir koloni bölgesel etki kazandığında:
+
+* Kervan rotalarını güvence altına alabilir.
+* Bağlı yerleşkelere himaye verebilir.
+* Ambargo veya geçiş yasağı uygulayabilir.
+* Büyük krizlerde arabulucu veya baskı unsuru olabilir.
+* Savaş, ateşkes ve karantina kararlarında belirleyici aktör haline gelebilir.
+
+Bu yüzden koloni, zincirin son halkasıdır.
+
+Bölgesel güç ise o koloninin ulaştığı nüfuz seviyesidir.
 
 ---
 

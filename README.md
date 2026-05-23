@@ -76,12 +76,14 @@ Bir taşıyıcı çocuk, sahte enfeksiyon suçlaması veya gizlenen salgın; kar
 
 Oyuncu grupları küçük başlar ve zamanla siyasi ağırlık kazanır.
 
-1. **Ocak:** Küçük hayatta kalma ekibi
+1. **Ocak:** Küçük hayatta kalma çekirdeği
 2. **Kamp:** Haritada bilinen yerel sığınak
-3. **Mahalle:** İç hukuk ve düzen kuran topluluk
-4. **Koloni:** Tanınan bölgesel aktör
-5. **Kasaba:** Ekonomi ve kültür üreten merkez
-6. **Bölgesel Güç:** Diplomasi, ambargo ve savaş kararı alabilen siyasi kutup
+3. **Yerel Topluluk:** Ortak kaynak, görev paylaşımı ve aidiyet kuran grup
+4. **Yerleşke:** İç kurallar, üretim ve savunma düzeni olan kalıcı yaşam alanı
+5. **Kasaba:** Pazar, meslekler, kültür ve yerel yönetim üreten merkez
+6. **Koloni:** Tanınan, diplomasi yürüten, kriz yöneten ve çevresindeki yapıları etkileyen üst siyasi toplum
+
+**Bölgesel güç**, bu zincirde ayrı bir aşama değildir. Olgun bir koloninin kervan yolları, bağlı yerleşkeler, pazarlar ve diplomatik kararlar üzerinde kurduğu nüfuz seviyesidir.
 
 ### Koloni Göstergeleri
 
@@ -293,4 +295,3 @@ Yeni Düzen'de iyi tasarım; oyuncuya daha fazla mermi vermek değil, o mermiyi 
 **Last Project Zombie: Yeni Düzen**, open.mp üzerinde geliştirilen; zombi kıyameti sonrasında koloni kurma, siyasi güç mücadelesi, kaynak kıtlığı, diplomasi ve yaşayan dünya eventleri üzerine kurulu üst seviye bir hardcore rolplay projesidir.
 
 **Bu dünyada hayatta kalmak, iyi nişan almak değil; insanları açlık, korku ve umut arasında aynı masada tutabilmektir.**
-
