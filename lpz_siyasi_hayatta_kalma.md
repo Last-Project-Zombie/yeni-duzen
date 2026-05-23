@@ -1177,47 +1177,69 @@ Veba sadece biyolojik tehdit değil, siyasi kriz motorudur.
 
 ## 13.1. Enfeksiyon evreleri
 
-Evre 1:
+LPZ'de Veba tek bir dönüşüm çizgisi değildir. Hastalık; maruziyet, kuluçka, aktif belirti, ağırlaşma, kritik eşik ve iyileşme gibi aşamalarla okunmalıdır. Halk bunu tek kelimeyle "Veba" diye adlandırır; doktorlar ise grip, kan enfeksiyonu, mantar enfeksiyonu, çürüme hastalığı veya su kaynaklı hastalık gibi ayrı profillerle düşünür.
 
-Ateş, susuzluk, ışık hassasiyeti.
+Maruz kalma:
 
-RP sonucu:
-
-Saklanabilir. Doktor kontrolü gerekir.
-
-Evre 2:
-
-Hafıza bulanıklığı, seslere tepki, agresyon.
+Beden risk almıştır ama belirti henüz toplum tarafından fark edilmeyebilir.
 
 RP sonucu:
 
-Karantina tartışması başlar.
+* Oyuncu bunu saklayabilir.
+* Doktor kontrolü gerekir.
+* Karantina kararı için kanıt yetersiz olabilir.
 
-Evre 3:
+Kuluçka:
 
-Vücut kontrolü kaybolur.
-
-RP sonucu:
-
-Tedavi mi, infaz mı, Koro'ya teslim mi?
-
-Taşıyıcı Durumu:
-
-Oyuncu veya NPC dönüşmez ama enfeksiyonla bağ taşır.
+Hastalık içeride ilerler. Ateş, halsizlik, yara bozulması, mide krizi veya davranış değişimi başlayabilir.
 
 RP sonucu:
 
-Toplum ikiye bölünür.
+* Toplum şüphelenir.
+* Beyaz Vadi kayıt ister.
+* Karakol-12 temaslı listesi çıkarabilir.
+* Koro Mahzenleri acele infaza karşı çıkar.
 
-## 13.2. Taşıyıcıların siyasi değeri
+Aktif ve ağır vaka:
 
-Bir taşıyıcı:
+Semptomlar görünür hale gelir. Hasta artık yalnızca tıbbi değil, siyasi meseledir.
 
-* Tedavi umudu olabilir.
-* Koro için kutsal olabilir.
-* Karakol-12 için yakılması gereken risk olabilir.
-* Beyaz Vadi için araştırma konusu olabilir.
-* Başak Surları için iç savaş sebebi olabilir.
+RP sonucu:
+
+* Tedavi mi, karantina mı, sürgün mü tartışılır.
+* Sahte suçlama ihtimali araştırılır.
+* Salgının kaynağı ve temas zinciri önem kazanır.
+* Hasta insan mı, risk mi, kanıt mı sorusu masaya gelir.
+
+İyileşme:
+
+Hastalık düşüştedir ama hasta hemen güvenli sayılmaz.
+
+RP sonucu:
+
+* Güven yavaş geri gelir.
+* İş gücü kaybı hesaplanır.
+* Karantina kararının haklı olup olmadığı tartışılır.
+
+## 13.2. Belirsiz vakaların siyasi değeri
+
+Mevcut kanonda "taşıyıcı" ayrı ve kesin bir mekanik tür değildir. Bu ifade ancak halk dili, söylenti veya siyasi suçlama olarak kullanılmalıdır. Gerçek RP değeri belirsiz vakalardan gelir.
+
+Belirsiz vaka şu kişiler olabilir:
+
+* Kuluçka evresindeki hasta.
+* Semptomu hafif ama riskli kişi.
+* Tedavisi yarım kalmış vaka.
+* Kirli su veya yara geçmişi saklanan karakter.
+* Politik olarak haksız yere Vebalı ilan edilmiş masum kişi.
+
+Siyasi değeri:
+
+* Beyaz Vadi için kayıt ve tedavi vakası olabilir.
+* Koro için korunması gereken insan olabilir.
+* Karakol-12 için karantina riski olabilir.
+* Başak Surları için iç gerilim sebebi olabilir.
+* Tuz Pazarı için satılabilir bilgiye dönüşebilir.
 
 ## 13.3. Salgın saklamak
 
@@ -1409,17 +1431,17 @@ Kim kapıyı kapatacak?
 Kim mültecileri iş gücü yapacak?
 Kim onları silahlandıracak?
 
-## 16.5. Taşıyıcı Çocuk
+## 16.5. Kuluçka Vakası
 
-Bir çocuk enfekte belirtisi gösterir ama dönüşmez.
+Bir çocuk ateş, halsizlik veya davranış bozulması gösterir. Henüz kesin dönüşüm, özel bağışıklık veya özel taşıyıcı kanıtı yoktur. Belirsizlik, bütün tarafları karar vermeye zorlar.
 
 Taraflar:
 
-* Beyaz Vadi incelemek ister.
-* Koro korumak ister.
-* Karakol-12 yakmak ister.
-* Başak Surları saklamak isteyebilir.
-* Tuz Pazarı satmak isteyebilir.
+* Beyaz Vadi kayıt, test ve tedavi ister.
+* Koro acele infaza karşı korumak ister.
+* Karakol-12 karantina ve temaslı listesi ister.
+* Başak Surları aileyi ve köy düzenini korumak isteyebilir.
+* Tuz Pazarı vaka bilgisini veya ilaç ihtiyacını pazarlığa çevirmek isteyebilir.
 
 Siyasi sonucu:
 
@@ -1557,7 +1579,7 @@ Her büyük yerleşimde IC haber panosu olabilir.
 * Karakol-12 kuzey yoluna kontrol noktası kurdu.
 * Tuz Pazarı'nda antibiyotik fiyatı iki katına çıktı.
 * Yol Meclisi üç rotayı güvensiz ilan etti.
-* Beyaz Vadi taşıyıcı vakası için gönüllü arıyor.
+* Beyaz Vadi belirsiz Veba vakası için gönüllü arıyor.
 
 ---
 
@@ -1616,7 +1638,7 @@ Ama salgın çıkınca herkes onu çağırır.
 Başak Surları ona gıda teklif eder.
 Karakol-12 koruma teklif eder.
 Beyaz Vadi kayıt ister.
-Koro saklanan bir taşıyıcıyı göstermesini ister.
+Koro saklanan bir hastayı göstermesini ister.
 
 Doktor artık sadece sağlık rolü oynamaz.
 
@@ -1829,7 +1851,7 @@ Moral kayıpları:
 * Haksız infaz
 * Liderin yalanı
 * Doktorun ölümü
-* Çocuk veya taşıyıcı krizi
+* Çocuk veya belirsiz Veba vakası krizi
 * Uzun süren karantina
 
 ## 23.7. Meşruiyet
@@ -1926,7 +1948,7 @@ Doktorlara dokunulmazlık vermek:
 * Tıbbi kültür güçlenir.
 * Beyaz Vadi ile ilişki iyileşir.
 
-Taşıyıcı saklamak:
+Semptomlu veya haksız suçlanan hasta saklamak:
 
 * Koro ile gizli bağ güçlenir.
 * Karakol-12 düşmanlığı artar.
@@ -2245,7 +2267,7 @@ Kervan ihaneti:
 * Olası sebep: İç muhbir, sahte pusu, sigorta dolandırıcılığı.
 * Çözüm: İz sürme, sorgu, pazar takibi, gizli anlaşma.
 
-Taşıyıcı söylentisi:
+Belirsiz Veba vakası söylentisi:
 
 * İlk belirti: Birinin gece nöbetinde garip davrandığı söylenir.
 * Olası sebep: Gerçek enfeksiyon, siyasi iftira, Koro teması.
@@ -2334,25 +2356,35 @@ Sahte suçlama ortaya çıkarsa:
 
 ## 28.3. Enfekte türleri
 
-Solgunlar:
+Bu bölüm `Veba Ekolojisi` kanonuna göre okunmalıdır. Enfekte türleri özel mistik sınıflar değil, mevcut zombi AI tiplerinin RP karşılıklarıdır.
 
-En yaygın enfekte türü. Yavaş, aç, kalabalıkta tehlikeli.
+Yürüyen:
 
-Aç Derililer:
+Kod karşılığı `walker`. Ana sürü bedenidir. Yavaş, kalabalıkta ölümcül ve bölge baskısı üretmek için uygundur.
 
-Hızlı ve sese duyarlı enfekteler. Kervan pusularında doğal felaket gibi kullanılabilir.
+Enfekte:
 
-Sessizler:
+Kod karşılığı `infected`. Hastalık profili, nemli bölge veya enfeksiyon baskısı yüksek alanlarda öne çıkar.
 
-Kapalı alanlarda bekleyen, ani tepki veren enfekteler. Veba Kenti ve hastane görevleri için uygundur.
+Şişkin:
 
-Veba Taşıyıcıları:
+Kod karşılığı `bloater`. Toksik ve çürümüş alanlarda ağır tehdit olarak kullanılmalıdır.
 
-İnsan davranışlarını kısmen taklit edebilen, belirsiz ve korkutucu tür. RP korkusu için az kullanılmalıdır.
+Sürünen:
 
-Sürü Çekirdeği:
+Kod karşılığı `crawler`. Yakın mesafe, dar alan, bodrum ve enkaz sahneleri için uygundur.
 
-Büyük sürü hareketlerinin merkezinde bulunan özel enfekte. Event varlığı olarak kullanılmalıdır.
+Uykuda:
+
+Kod karşılığı `dormant`. Kapalı alanlarda, arşivlerde, hastane odalarında ve terk edilmiş tesislerde bekleyen tehdit olarak kullanılmalıdır.
+
+Koşucu ve Yabanıl:
+
+Kod karşılığı `runner` ve `feral`. Mevcut ayarda standart tehdit olarak aktif değildir. Kullanılacaksa sezonluk test, özel event veya admin kararı olarak ele alınmalıdır.
+
+Sürü yoğunluğu:
+
+Büyük sürü hareketlerinin merkezinde özel bir "seçilmiş enfekte" olmak zorunda değildir. Bölge ekolojisi, ses, koku, kan, yol kapanması ve karantina baskısı birleştiğinde sürü yoğunluğu oluşabilir.
 
 ## 28.4. Sürü göçleri
 

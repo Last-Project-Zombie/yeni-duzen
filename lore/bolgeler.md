@@ -155,7 +155,7 @@ Tuz kokusu, paslı tenekeler, yarı gömülü çadırlar, sahte doktor masaları
 - Sahte kimlikler
 - Yasak ticaret
 - Bilgi satışı
-- Taşıyıcı saklama
+- Semptomlu veya haksız suçlanan hasta saklama
 
 ### Siyasi Gerilim
 
