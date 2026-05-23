@@ -176,9 +176,9 @@ Eski askeri karantina bölgesi. Endgame lore, kapalı tesisler, eski emirler ve 
 
 ---
 
-## Ana Koloniler ve Kültürler
+## Güç Odakları
 
-Sunucu başlangıcında tanınmış birkaç siyasi yapı vardır. Bunlar oyunculara hazır güç merkezleri, çatışma hatları ve diplomasi zemini verir; dünyanın tamamını kilitlemez. Yeni oyuncu grupları bu yapıların yanında, içinde veya karşısında kendi topluluklarını büyütebilir.
+Sunucu başlangıcında tanınmış birkaç güç odağı vardır. Bunlar oyunculara hazır güç merkezleri, çatışma hatları ve diplomasi zemini verir; dünyanın tamamını kilitlemez. Yeni oyuncu grupları bu yapıların yanında, içinde veya karşısında kendi topluluklarını büyütebilir.
 
 ### Başak Surları
 
