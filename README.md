@@ -314,6 +314,7 @@ Mevcut ana belgeler:
 - [lore/bolgeler.md](./lore/bolgeler.md)
 - [lore/factionlar.md - Güç Odakları Atlası](./lore/factionlar.md)
 - [lore/veba-ekolojisi.md - Veba Ekolojisi](./lore/veba-ekolojisi.md)
+- [lpz_romansi_hikaye_yarinin_suyu.md - Yarının Suyu](./lpz_romansi_hikaye_yarinin_suyu.md)
 
 İlerleyen aşamalarda burada şu içeriklerin tutulması hedeflenir:
 
